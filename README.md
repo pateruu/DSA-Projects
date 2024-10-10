@@ -5,13 +5,12 @@ _____________________________________________________________________________
 This repository contains my projects and implementations from the **ECE 250 Data Structures and Algorithms Course**. Each project focuses on implementing efficient data structures and algorithms in C++, with practical applications to real-world problems.
 
 ## Table of Contents
-- [Lab 0: Music Playlist](#lab-0-music-playlist)
-- [Lab 1: What Time Is It, Big-Bad Wolf?](#lab-1-what-time-is-it-big-bad-wolf)
-- [Lab 2: Spell-Checker](#lab-2-spell-checker)
-- [Lab 3: Tokenizing](#lab-3-tokenizing)
-- [Lab 4: Emergency Response](#lab-4-emergency-response)
-- [How to Run](#how-to-run)
-- [Contact](#contact)
+- [Project1: Music Playlist](#project-1-music-playlist)
+- [Project2: What Time Is It, Big-Bad Wolf?](#project-2-what-time-is-it-big-bad-wolf)
+- [Project3: Spell-Checker](#project-3-spell-checker)
+- [Project4: Tokenizing](#project-4-tokenizing)
+- [Project5: Emergency Response](#project-5-emergency-response)
+
 
 ---
 
