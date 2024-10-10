@@ -2,7 +2,7 @@
 Projects using Data Structures and Algorithm principles.
 _____________________________________________________________________________
 
-This repository contains my projects and implementations from the **ECE 250 Data Structures and Algorithms Course**. Each project focuses on implementing efficient data structures and algorithms in C++, with practical applications to real-world problems.
+This repository contains my projects and implementations from my **Data Structures and Algorithms Course**. Each project focuses on implementing efficient data structures and algorithms in C++, with practical applications to real-world problems.
 
 ## Table of Contents
 - [Project1: Music Playlist](#project-1-music-playlist)
